@@ -64,6 +64,7 @@ Clasificación binaria supervisada, desarrollada en fases independientes y ensam
 │   └── utils/                 # Funciones reutilizadas (data_utils.py)
 ├── main_definitive.ipynb      # Pipeline completo ensamblado
 ├── requirements.txt
+├── Presentacion.pdf          # Presentación de resultados
 └── README.md
 
 ```
